@@ -77,4 +77,6 @@ void loop() {
 ##  **Conclusion**
 
 The **Servo Motor Control Using Arduino** project provides a simple way to understand motor control and Arduino-based automation. It demonstrates how programmed signals can be used to achieve precise angular movement.
+Result
+<img width="900" height="1600" alt="result5" src="https://github.com/user-attachments/assets/e6308663-dc8f-4972-ba2a-4fcca5571000" />
 
